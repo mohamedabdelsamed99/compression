@@ -21,4 +21,10 @@ Each part of the app focuses on one algorithm, making it simple to analyze and c
 
 * RLE Compression Page: Encodes input text, calculates different terms and compression ratio, and handles logs for maximum repeat counts.
 
-* LZW Compression Page: (To be implemented).
+* LZW Compression Page:  Compresses input text using Lempel-Ziv-Welch (LZW) compression, displaying dictionary indices, sizes,
+
+and compression ratio. Supports custom data input for decompression with error handling for valid entries.
+
+
+
+
